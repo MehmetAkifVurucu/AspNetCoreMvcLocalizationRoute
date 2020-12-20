@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreLocalizationUrlRouting", "AspNetCoreLocalizationUrlRouting\AspNetCoreLocalizationUrlRouting.csproj", "{74BBE19B-1634-414C-A15C-2891C0C9A803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BBE19B-1634-414C-A15C-2891C0C9A803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BBE19B-1634-414C-A15C-2891C0C9A803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BBE19B-1634-414C-A15C-2891C0C9A803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BBE19B-1634-414C-A15C-2891C0C9A803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6645CECC-0894-4971-98BF-7BEA51D173CF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+﻿@using AspNetCoreLocalizationUrlRouting.Resources;
+@{
+    string currentController = ViewContext.RouteData.Values["Controller"].ToString();
+    string currentAction = ViewContext.RouteData.Values["Action"].ToString();
+}
+<h4>@Resource.Merhaba @Resource.Hosgeldin</h4>
+<h5>@Resource.SayfaAdi @currentController @currentAction</h5>
