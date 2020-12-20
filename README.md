@@ -1,1 +1,1 @@
-# AspNetCoreMvcLocalizationRoute
+Asp.Net Core Mvc ile çoklu dil desteği olan 2 sayfalı basit bir web sitesi oluşturarak kullanıcının seçmiş olduğu dile göre diğer sayfaların açılması ve route yapılması işlemini ele alındığı bir Asp.Net Core Mvc uygulaması
